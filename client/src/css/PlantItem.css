@@ -1,0 +1,9 @@
+.plantItem {
+  border: 1px solid white;
+  width: 240px;
+  /* height: 200px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
